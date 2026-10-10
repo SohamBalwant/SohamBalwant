@@ -40,6 +40,16 @@ I'm a Computer Science student at IIIT Lucknow who enjoys building practical sof
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SohamBalwant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamBalwant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=SohamBalwant&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### INOX — Real-Time Video Collaboration
@@ -61,16 +71,6 @@ A blockchain-based platform for NFT-related functionality and decentralized appl
 An anomaly detection project analyzing eKYC transaction patterns using machine learning.
 
 **Tech:** Python, Pandas, Scikit-learn, Isolation Forest, DBSCAN
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamBalwant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamBalwant&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SohamBalwant&theme=tokyonight&hide_border=true)
 
 ---
 
